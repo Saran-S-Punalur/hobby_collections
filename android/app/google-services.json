@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "526846756482",
+    "project_id": "collections-app-bb8",
+    "storage_bucket": "collections-app-bb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526846756482:android:eacc81ebe9a57f4379569b",
+        "android_client_info": {
+          "package_name": "com.example.hobby_collections"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526846756482-q73sghkji623nkpn8c4hqfch5e8cqajs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0gE6HLj8E3L5kbtjdQHC6vY-9fk8QUl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526846756482-q73sghkji623nkpn8c4hqfch5e8cqajs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
